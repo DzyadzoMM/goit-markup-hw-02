@@ -43,7 +43,7 @@ a{
     color: #2e2f42;
 }
 .link-header:focus, .link-header:hover{
-    color: #404BBF;
+    color: #404bbf;
 }
 .adress_link{
   font-size: 16px;
@@ -53,7 +53,7 @@ a{
   color:#434455;
 }
 .adress_link:focus, .adress_link:hover{
-  color: #404BBF;}
+  color: #404bbf;}
 .your_business{
   background-color: #2E2F42;
 }
