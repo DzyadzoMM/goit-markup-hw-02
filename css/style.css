@@ -50,7 +50,7 @@ a{
 .your_business_h{
 font-size: 56px;
 font-weight: 700;
-line-height: 60px;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color:#FFFFFF;
@@ -85,14 +85,14 @@ color:#FFFFFF;
 .section_name_h-try{
   font-size: 20px;
   font-weight: 500;
-  line-height: 1.07;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2E2F42;
 }
 .section_text{
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #434455;
 }
