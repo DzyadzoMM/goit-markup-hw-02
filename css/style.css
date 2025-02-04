@@ -13,7 +13,7 @@ a{
   font-style: normal;
 }
 .logo{
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
@@ -33,7 +33,7 @@ a{
  color:#2E2F42;
 }
 .class_nav:focus, .class_nav:hover{
-  color: #404BBF;
+  color: #404bbf;
 }
 .adress_link{
   font-size: 16px;
@@ -44,10 +44,10 @@ a{
 }
 .adress_link:focus, .adress_link:hover{
   color: #404BBF;}
-.Your_Business{
+.your_business{
   background-color: #2E2F42;
 }
-.Your_Business_h{
+.your_business_h{
 font-size: 56px;
 font-weight: 700;
 line-height: 60px;
@@ -55,7 +55,7 @@ letter-spacing: 0.02em;
 text-align: center;
 color:#FFFFFF;
 }
-.Your_Business_button{
+.your_business_button{
   background-color: #4D5AE5;
   color: #FFFFFF;
   font-size: 16px;
@@ -64,28 +64,28 @@ color:#FFFFFF;
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-.Your_Business_button:focus, .Your_Business_button:hover {
-    background-color: #404BBF;
+.your_business_button:focus, .your_business_button:hover {
+    background-color: #404bbf;
 }
-.section_Our_Team{
+.section_our_team{
   background-color: #F4F4FD;
 }
-.section_Our_Team_link{
+.section_our_team_link{
   background-color: #fff;
 }
-.section_name_h2{
+.section_name_h-two{
   font-size: 36px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
-  color: #2E2F42;
+  color: #2e2f42;
 }
-.section_name_h3{
+.section_name_h-try{
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #2E2F42;
 }
@@ -100,7 +100,7 @@ color:#FFFFFF;
   background-color: #2E2F42;
 }
 .footer_logo{
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.17;
