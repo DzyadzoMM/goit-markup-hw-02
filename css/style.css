@@ -20,17 +20,17 @@ a{
   letter-spacing: 0.03em;
   text-align: left;
   text-transform: uppercase;
-  color:#4D5AE5;
+  color:#4d5ae5;
 }
 .logo_text{
-  color:#2E2F42;
+  color:#2e2f42;
 }
 .class_nav{
  font-size: 16px;
  font-weight: 500;
  line-height: 1.5;
  letter-spacing: 0.02em;
- color:#2E2F42;
+ color:#2e2f42;
 }
 .class_nav:focus, .class_nav:hover{
   color: #404bbf;
@@ -55,7 +55,7 @@ a{
 .adress_link:focus, .adress_link:hover{
   color: #404bbf;}
 .your_business{
-  background-color: #2E2F42;
+  background-color: #2e2f42;
 }
 .your_business_h{
 font-size: 56px;
@@ -63,11 +63,11 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
-color:#FFFFFF;
+color:#ffffff;
 }
 .your_business_button{
-  background-color: #4D5AE5;
-  color: #FFFFFF;
+  background-color: #4d5ae5;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -78,10 +78,10 @@ color:#FFFFFF;
     background-color: #404bbf;
 }
 .section_our_team{
-  background-color: #F4F4FD;
+  background-color: #f4f4fd;
 }
 .section_our_team_link{
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .section_name_h-two{
   font-size: 36px;
@@ -97,7 +97,7 @@ color:#FFFFFF;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2E2F42;
+  color: #2e2f42;
 }
 .section_text{
   font-size: 16px;
